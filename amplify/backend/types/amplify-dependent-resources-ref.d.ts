@@ -16,5 +16,11 @@ export type AmplifyDependentResourcesAttributes = {
       "UserPoolId": "string",
       "UserPoolName": "string"
     }
+  },
+  "storage": {
+    "reactGen1ImageStorage": {
+      "BucketName": "string",
+      "Region": "string"
+    }
   }
 }

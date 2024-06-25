@@ -1,0 +1,14 @@
+{
+  "resourceName": "reactGen1ImageStorage",
+  "policyUUID": "3b33815f",
+  "bucketName": "react-gen1-imagestorage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
